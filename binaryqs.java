@@ -20,6 +20,7 @@ class binaryqs{
         return arr[end];
 
     }
+    // end of code
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
