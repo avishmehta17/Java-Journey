@@ -1,4 +1,5 @@
-import java.util.Scanner;
+// This Code is a copy of main code
+ import java.util.Scanner;
 
 class binaryqs{
 
@@ -21,7 +22,10 @@ class binaryqs{
 
     }
     // end of code
-    // its not the end
+    class newClass{
+        // System.out.println("PRint kar");
+    }
+    // its not the en
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -34,3 +38,4 @@ class binaryqs{
 
     }
 }
+
